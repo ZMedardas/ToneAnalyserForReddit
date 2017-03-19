@@ -1,0 +1,103 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+	margin-top: 50px;
+	background-color: black;
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+.navbar-inverse{
+	background-color: #4a219b;
+	border-color: #8400ff;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+	font-size: 25px;
+}
+
+.navbar-inverse .navbar-nav .bigLetter{
+	font-size: 30px;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > p{
+	padding: 15px;
+	display: block;
+	position: relative;
+	margin: 0;
+	line-height: 20px;
+}
+
+.thumb
+{
+	padding: 0;
+	width: 230px;
+	height: 230px;
+
+	display: flex;
+	align-items: center;
+}
+
+.thumb img
+{
+	max-width: 230px;
+	max-height: 230px;
+}
+
+.table
+{
+	background-color: #f6f6f6;
+	color: black;
+	font-size: 20px;
+	border-radius: 8px;
+}
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+}
+
+/* Custom panels */
+
+.panel-default > .panel-heading {
+    background-image: none;
+    background-color: #270f44;
+    color: white;
+}
+
+/*links*/
+.link-unstyled {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.link-unstyled:link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.link-unstyled:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
